@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+# My name is ALIYU, Muhammad
+## A Computer Science Major at Federal University of Technology, Minna
